@@ -21,4 +21,5 @@ public class CandidateService {
             throw new CandidateNotFoundRestException(e.getMessage(),e.getCandidateId());
         }
     }
+
 }
