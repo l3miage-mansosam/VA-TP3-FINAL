@@ -1,4 +1,4 @@
-package fr.uga.l3miage.spring.tp3.component;
+package fr.uga.l3miage.spring.tp3.components;
 import fr.uga.l3miage.spring.tp3.components.CandidateComponent;
 import java.util.Optional;
 import fr.uga.l3miage.spring.tp3.models.CandidateEntity;

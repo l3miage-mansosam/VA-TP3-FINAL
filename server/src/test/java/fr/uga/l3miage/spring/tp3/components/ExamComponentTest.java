@@ -1,4 +1,4 @@
-package fr.uga.l3miage.spring.tp3.component;
+package fr.uga.l3miage.spring.tp3.components;
 
 import fr.uga.l3miage.spring.tp3.components.ExamComponent;
 import fr.uga.l3miage.spring.tp3.exceptions.technical.ExamNotFoundException;
